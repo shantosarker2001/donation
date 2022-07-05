@@ -54,9 +54,9 @@ h2 {
 
 .donate_container {
     display: flex;
-    width: 55%;
+    width: 60%;
     margin: 50px 300px;
-    text-align: center;
+
 }
 
 .donate_amount {
@@ -91,4 +91,44 @@ h2 {
 
 .align {
     margin: 30px 250px;
+}
+
+.single_plan {
+    width: 40%;
+    border-radius: 5px;
+    margin-right: 2%;
+    padding: 30px 20px;
+}
+
+#one {
+    background-color: #a6ddec;
+}
+
+#two {
+    background-color: #e6c0b9;
+}
+
+#three {
+    background-color: #ecbaa6;
+}
+
+.single_plan img {}
+
+
+
+.single_plan h4 {}
+
+.single_plan p {
+
+    text-align: justify;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+
+.footer h3 {
+    color: #a02c02;
 }
