@@ -55,7 +55,7 @@ h2 {
 .donate_container {
     display: flex;
     width: 60%;
-    margin: 50px 300px;
+    margin: 50px 250px;
 
 }
 
@@ -131,4 +131,25 @@ h2 {
 
 .footer h3 {
     color: #a02c02;
+}
+
+
+.subscribe {
+    width: 60%;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #e6c0b9;
+    text-align: center;
+}
+
+.subscribe input {
+    padding: 5px 10px;
+    margin-right: 0px;
+
+
+}
+
+.btn {
+    margin-left: 0px;
+    display: inline-block;
 }
